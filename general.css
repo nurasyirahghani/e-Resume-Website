@@ -1,0 +1,17 @@
+header {
+    text-align: center; 
+    color: #004b64;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+}
+body {
+    background-size: cover;
+}
+footer {
+    p{
+        text-align: center;
+        color: #1B9AAA;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: small;
+    }
+}
